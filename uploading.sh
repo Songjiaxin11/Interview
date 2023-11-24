@@ -4,7 +4,7 @@
 remote="origin"
 
 # 主分支的名称
-base_branch="main"
+base_branch="522370910084"
 
 # 指定的远程分支列表
 # target_remote_branches=("test001" "test002")  # 替换为实际的目标远程分支名称
