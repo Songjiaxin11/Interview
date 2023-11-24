@@ -25,7 +25,7 @@ branches=($(csvtool -t COMMA col 1 $csv_file))
 remote="origin"
 
 # 切换到主分支（或其他基础分支）
-base_branch="main"
+base_branch="522370910084"
 
 # 循环遍历推送分支到远程仓库
 for branch in "${branches[@]}"; do
