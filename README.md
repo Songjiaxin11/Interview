@@ -4,10 +4,10 @@
 # 1. 软件配置
 ### VEXcode Pro V5, 请参考
 https://www.vexrobotics.com/vexcode/install/v5
-![Alt text](image.png)
+![Alt text](pictures/image.png)
 ### VSCode 插件
 **方法: 插件(Extension)-> 搜索VEX-> 安装如图两个插件**
-![Alt text](image-1.png)
+![Alt text](pictures/image-1.png)
 # 2. 面试内容
 ## 1. C++基础使用
 ## 2. 电控元件以及VEXCode的基础了解
