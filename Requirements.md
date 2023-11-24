@@ -1,14 +1,17 @@
 # GitHub 下载题目与上传答案
 [GitHub 仓库链接] <https://github.com/Songjiaxin11/Interview>
 ## 下载方式：
-1. `git clone git@github.com:Songjiaxin11/Interview.git`
-2. 点击 Download Zip
+### 1. Git 指令
+1. `git clone git@github.com:Songjiaxin11/Interview.git`  
+2. 找到自己的分支 `git checkout branchname` 
+### 2. Download Zip
+1. 在`main`标志的小三角下拉  **<font color=red>先找到自己的分支, 点击切换**</font>
+2. 点击 `Code` 点击`Download Zip`
+![Alt text](pictures/step1.png)
 <div style="text-align:center;">
-    <img src="001.png" alt="Your Image Description width="350" height="350"">
-</div>
-
-3. 找到自己的分支 `git checkout brachname`  
-   或者在`main`标志的小三角下拉, 找到自己学号  
+    <img src="pictures/001.png" alt="Your Image Description width="350" height="350"">
+</div>  
+  
 ## 上传方式:
 1. **Git指令** <font color=red>(15 points)</font>
     ```
@@ -88,7 +91,7 @@ atan2(v.y(), v.x());
 黑色代表世界坐标系, 蓝色代表机器人坐标系, 红色代表机器人坐标系下的速度, 绿色代表世界坐标系下的速度
 接下来的任务中, 你需要实现从<font color=red>**从**机器人坐标系下速度</font><font color=green>**到**世界坐标系下速度</font>的**转换**
 <div style="text-align:center;">
-    <img src="Transformation.jpg" alt="Your Image Description width="500" height="500"">
+    <img src="pictures/Transformation.jpg" alt="Your Image Description width="500" height="500"">
 </div>
 
 ## Task 1. (5 points) 
@@ -135,11 +138,11 @@ Brain.Screen.print("Hello World");
 # 编译文件
 1. 在VEXcode V5 Pro中点击右上角编译
 <div style="text-align:center;">
-    <img src="003.png" alt="Your Image Description width="300" height="300"">
+    <img src="pictures/003.png" alt="Your Image Description width="300" height="300"">
 </div>  
 2. 在VSCode中点击右下角编译
 <div style="text-align:center;">
-    <img src="004.png" alt="Your Image Description width="250" height="250"">
+    <img src="pictures/004.png" alt="Your Image Description width="250" height="250"">
 </div>  
 
 # 运行文件
