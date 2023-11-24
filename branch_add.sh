@@ -13,13 +13,13 @@
 # 通过读取csv创建分支
 ###################################################
 # CSV 文件路径
-csv_file="./branchName.csv"
+# csv_file="./branchName.csv"
 
-# 读取 CSV 文件中的分支列表
-branches=($(csvtool -t COMMA col 1 $csv_file))
+# # 读取 CSV 文件中的分支列表
+# branches=($(csvtool -t COMMA col 1 $csv_file))
 ###################################################
 # 通过写名字创建
-# branches=("test001" "test002")
+branches=("522370910084")
 # ###################################################
 # 远程仓库的名称
 remote="origin"
