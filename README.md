@@ -14,6 +14,7 @@ https://www.vexrobotics.com/vexcode/install/v5
 ## 3. GitHub的使用, 建议提前配置GitHub, 学习基础Git指令
 **不做强制要求, 但成功推送至个人分支有附加分**
 **目前所有第一二志愿报名程序组的同学都有以自己学号命名的分支**
+### Git指令
 克隆仓库: `git clone  
 git@github.com:Songjiaxin11/Interview.git`  
 切换分支: `git checkout branch-name` **一定要切换至个人分支**  
@@ -21,4 +22,7 @@ git@github.com:Songjiaxin11/Interview.git`
 添加修改: `git add .`  
 提交修改: `git commit -m "message"`  
 推送至分支: `git push`  
+### Download Zip
+1. **<font color=red>先找到自己的分支, 点击切换, 再下载zip**</font>
+![Alt text](pictures/step1.png)
 
